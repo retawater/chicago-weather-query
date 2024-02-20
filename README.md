@@ -4,4 +4,4 @@ This script is used to retrieve data from the National Centers for Environmental
 
 [API documentation](https://www.ncei.noaa.gov/support/access-data-service-api-user-documentation) can be found here. There are no authentication requirements for accessing the public dataset referenced in this script.
 
-I use this data for my Chicago Winter Weather visualization.
+I use this data for my [Chicago Wintry Weather visualization](https://public.tableau.com/app/profile/evan.fojtik/viz/ChicagoWintryWeather/Summary#1).
